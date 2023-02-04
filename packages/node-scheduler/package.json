@@ -1,0 +1,8 @@
+{
+  "name": "@almaclaine/node-scheduler",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
